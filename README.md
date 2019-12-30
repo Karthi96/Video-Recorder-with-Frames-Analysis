@@ -81,7 +81,7 @@ implementation group: 'org.bytedeco.javacpp-presets', name: 'opencv', version: '
 implementation group: 'org.bytedeco.javacpp-presets', name: 'opencv', version: '3.2.0-1.3', classifier: 'android-x86'
  implementation group: 'org.bytedeco.javacpp-presets', name: 'ffmpeg', version: '3.2.1-1.3', classifier: 'android-arm'
  implementation group: 'org.bytedeco.javacpp-presets', name: 'ffmpeg', version: '3.2.1-1.3', classifier: 'android-x86'
-
+```
 * Configure the AWS account into the android app by providing `accessKey and
 secretKey` to the file path
 `/app/src/main/java/nirman/io/detector/AwsConfig.java`. If you don't know how to
