@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">NNT Detector</string>
+    <string name="action_about_app">About App</string>
+    <string name="action_about_us">About us</string>
+    <string name="action_contact_us">Contact us</string>
+    <string name="title_activity_scrolling">About Nggawe Nirman Technologies</string>
+    <string name="large_text">
+
+        "We have through our years of experience in the technology field developed products, software, led successful digital transformations and catered to the overall IT requirements for multiple organizations across the globe. One common problem we identified during these engagements across the organizations was the struggle with the Software Development Lifecycle due to changing business environments both internally and externally, changing technology, absence of the right set of experienced people, goal alignments, financial commitments, etc.\n\n"
+
+        "We setup Nggawe Nirman Technologies with the view to address the above issues. We are a group of people having very rich experience in technology from various domains and are here to deliver the right solutions built around the right technology by the right set of experienced people. We are here to help and collaborate with you to accelerate your software development, infrastructure, overall business transformation or any other technology needs. All this, done with high quality and at a high velocity done right first time and each time.\n\n"
+
+        "\n\nOur Vision:\n\n"
+
+        "Help customers solve business problems by providing high-impact and innovative solutions\n\n"
+
+        "\n\nOur Mission:\n\n"
+
+        "Collaborate with customers to accelerate software development and build solutions to strengthen their business by leveraging our deep technical and industry expertise with integrity and respect\n"
+
+        "\n\nWho We Are?\n\n"
+
+        "We are a rapidly growing company and are here to address business requirements across the technology spectrum for all business across all industries. Our rich experience and expertise in working on different technology requirements and areas, across the globe helps you achieve your technology goals with high quality at high velocity, done right first time and every time.\n"
+
+        "\n\nWhat We Do?\n\n"
+
+        "Be it Digital Transformation, Product Development or Technology Expertise, we are a one stop solution provider for your business’s unique technology needs.\nWe can help you create your digital presence leading to business transformation. We can build products for you from scratch to deliver great customer experiences and create business efficiencies based on your unique business needs. We provide you with best in class technology consulting services to keep you abreast with latest trends.\n"
+
+        "\n\nWhy Choose Us?\n\n"
+
+        "With supreme customer experience at our core, we ensure that we deliver products and solutions that just don’t meet your expectations but exceed them.
+
+As an organization, we work alongside you to ensure your requirements are understood, documented, communicated, planned, executed and delivered to your satisfaction.
+
+We work on agile methodology so that there is complete collaboration between parties involved, ensuring the desired outcome. You also have access to best technology talent and advise, given our team composition which has subject matter experts with years of experience in various technologies we cater to.\n"
+
+        "\n\nOur Core Values:\n\n"
+
+        "As an organization we look to deliver supreme customer experience. In this pursuit we hire individuals who are customer obsessed, continuously raise the bar and go above and beyond normal call of duty. We constantly act on feedback from all spheres and look for opportunities to improve all the time.
+
+We build an environment of learning, growth, sharing and innovation for everyone. We encourage intrapreneurs and also look to create expert generalists. Our organization is built on genuine care for our teams, trust and transparency.
+
+All of this is reflected in our core values as well and something that is always on our minds while we work as a one big team.\n"
+
+        "\n\nOur Global Footprints:\n\n"
+
+"We are steadily increasing our footprints through our technology offerings to various regions in the world. In a short span of 2 years we have been able to create presence with notable industry players across 4 continents already and are adding more customers soon.\n"    </string>
+    <string name="title_activity_about_app">About App</string>
+    <string name="large_text1">
+        "NNT Detector will demonstrate how to perform near-real-time analysis on frames taken from a live video stream\n\n"
+    </string>
+
+
+</resources>
